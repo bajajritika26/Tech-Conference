@@ -101,6 +101,8 @@
         /* Show Links When Menu is Open */
         .nav-links.open {
             display: flex;
+            background-color: gray;
+            width: 50%;
         }
     }
 </style>
